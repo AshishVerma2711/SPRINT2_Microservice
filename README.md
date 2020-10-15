@@ -2,7 +2,7 @@
 
 Project-Great Outdoors
 Members:
-1.Sudhanshu(46041183) - Product mangement
+1.Sudhanshu(46041183) - Product mangement<br>
 2.Ashish Verma(46040959) - Retailer Mangement
 3.Shubham Pal(46040615) - Customer Mangement and Login
 4.Deepanshu Pathak(46041090)- Cart Service
